@@ -25,5 +25,5 @@ Following messages can be seen in the console.
 ##### Server running on port 8080
 ##### Connected to mongodb
 #
-Open browser and got to *http://localhost:8080/login* and enter username and password to enter homepage. If username or password is wrong, you will be redirected to same page with a flash message.
+Open browser and go to *http://localhost:8080/login* and enter username and password to enter homepage. If username or password is wrong, you will be redirected to same page with a flash message.
 #
